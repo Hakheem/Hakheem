@@ -17,7 +17,6 @@ I build sleek, responsive, and scalable web experiences that are user-first and 
 🔥 [UrbanMart ](https://volcan-tech.vercel.app/) - A modern multi-vendor e-commerce web app 
 
 
-
 ## 🛠 Tech Stack  
 
 ### Frontend & Design  
@@ -67,7 +66,7 @@ Open to partnerships on tools and products needing design and development expert
 
 ## 📊 GitHub Stats  
 
-<div style="display: flex; justify-content: space-between; width: 100%;">
-  <img alt="Hakheem's GitHub Stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Hakheem&show_icons=true&theme=transparent" />
-  <img alt="Top Languages" align="right" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hakheem&layout=compact&show_icons=true&theme=transparent" />
-</div>
+<p align="center">
+  <img src="https://gh-readme-profile.vercel.app/api?username=Hakheem&theme=dark&hide=forks,prs,prs_merged&show=issues_closed&hide_stroke=true&hide_border=true&bg_color=000000&title_color=25b8f2&icon_color=25b8f2&border_color=000000&stroke_color=000000" alt="hakheem" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hakheem&theme=dark&background=000000&ring=25b8f2&fire=25b8f2&currStreakLabel=25b8f2" alt="hakheem" width="48%" />
+</p>
