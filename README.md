@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Hector John  
-### Product-Focused Web Developer & Product Designer  
+### Product-Focused Software Engineer & UI Designer  
 
-I build sleek, responsive, and scalable web experiences that are user-first and technically sound. My work combines clean architecture with thoughtful interfaces, focusing on systems that deliver real value through maintainable code and optimized performance.
+I build sleek, responsive, and scalable web solutions that are user-first and technically sound. My work combines clean architecture with thoughtful interfaces, focusing on systems that deliver real value through maintainable code and optimized performance.
 
 🔹 Frontend Specialist with full-stack capabilities  
 🔹 Figma-to-Code workflow expert  
@@ -14,7 +14,7 @@ I build sleek, responsive, and scalable web experiences that are user-first and 
 <a href="https://dribbble.com/Hakheem" target="_blank"><img src="https://img.shields.io/badge/Dribbble-EA4C89?logo=dribbble&logoColor=white&style=for-the-badge" height="28" /></a>  
 
 ## 🚀 Current Project  
-🔥 [UrbanMart ](https://volcan-tech.vercel.app/) - A modern multi-vendor e-commerce web app 
+🔥 [InstiQ ](https://instiq.onrender.com/) - A modern institution management system 
 
 
 ## 🛠 Tech Stack  
