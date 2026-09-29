@@ -8,13 +8,13 @@ I build sleek, responsive, and scalable web solutions that are user-first and te
 🔹 Performance-focused and data-driven  
 
 <a href="mailto:hakheem67@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" height="28" /></a> 
-<a href="http://hectorjohn.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF4088?logo=vercel&logoColor=white&style=for-the-badge" height="28" /></a> 
+<a href="http://hakheem.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF4088?logo=vercel&logoColor=white&style=for-the-badge" height="28" /></a> 
 <a href="https://www.linkedin.com/in/hectorjohn/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="28" /></a> 
 <a href="https://www.behance.net/hectorjohn2" target="_blank"><img src="https://img.shields.io/badge/Behance-1769FF?logo=behance&logoColor=white&style=for-the-badge" height="28" /></a> 
 <a href="https://dribbble.com/Hakheem" target="_blank"><img src="https://img.shields.io/badge/Dribbble-EA4C89?logo=dribbble&logoColor=white&style=for-the-badge" height="28" /></a>  
 
 ## 🚀 Current Project  
-🔥 [InstiQ ](https://instiq.onrender.com/) - A modern institution management system 
+ [Vaib Events](https://vaib-events.onrender.com//) - A online ticketing and event listing platform 
 
 
 ## 🛠 Tech Stack  
